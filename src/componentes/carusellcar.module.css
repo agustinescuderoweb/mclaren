@@ -1,0 +1,24 @@
+.carousel360 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .viewer {
+    width: 1200px; /* Ajusta el tamaño del viewer */
+    height:600px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  .viewer img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .button {
+    margin-top: 10px;
+  }
+  

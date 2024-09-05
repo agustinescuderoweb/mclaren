@@ -1,0 +1,43 @@
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 52%;
+    height: 60px;
+    margin-top: 20px;
+}
+
+.global {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.global h1 {
+    font-size: 18px;
+    color: grey;
+}
+
+.imaglobal {
+    background-color: #363f44;
+    width: 45px;
+    height: 25px;
+  
+}
+
+
+.mcglaren {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.mcglaren h1 {
+    font-size: 18px;
+    color: grey;
+}
